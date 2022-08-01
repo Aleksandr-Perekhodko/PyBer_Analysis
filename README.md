@@ -41,4 +41,13 @@ Urban is highest population density so it has the highest amount of total rides 
 
 ## Summary
 
-> - Recommendations
+> - Recommendations:
+
+
+1. The first recommendation to fix a major disparity in the urban regions average fare per driver is to not hire any new drivers in urban areas while there is an over saturation of drivers in the urban market causing the average fare for drivers to go down quite significantly. The only propblem is that there will need to be some sort of system put in place where drivers who drive more often are given more incentive to keep driving so not to have a shortage of drivers on the road to have high wait times for customers.
+
+
+2. The second recommendation is to raise the Urban areas fares to increase the average for average drivers, this could be done to bypass the first recommendation is a easier solution to not only raise averages of fare per driver but to also increase fare per ride and total fare. The only con to this recommendation is that we may a competitor with better prices that the customers may go to but more drivers may be incetived to drive with us making us have lower wait times.
+
+
+3. Third is if we raise prices to the Urban areas we may also want to raise the suburban fare prices to have a higher average fare per driver, but also to increase total fares to equilize with urban areas. The only problem is that in suburban area the competitor may have lower prices than us and wait times may already be pretty low in suburban area due to not that high of a ride demand. 
