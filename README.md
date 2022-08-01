@@ -13,7 +13,7 @@ The following analysis is done with using two csv's, city data and ride data. To
 ![dataframe_totals](https://user-images.githubusercontent.com/97326526/182220320-ed8e3b07-77dd-4518-ac33-1c7770f737ca.JPG)
 
 
-> - Rural:
+# > - Rural:
 
 
 The total rides for this type of region is lowest with 125 rides, since it will have the lowest population amount, also the lowest amount of drivers with only 78, due the low ride demand, so not much demand for drivers. Rural region type also had the lowest amount of total fares with $4,327.93 due to low ride demand. But the Rural region type has the highest average for per ride with $34.62 and highest average fare per driver with $55.49 compared to the other region types since the demand is low the fare will have to higher to keep drivers.
@@ -22,7 +22,7 @@ The total rides for this type of region is lowest with 125 rides, since it will 
 ![rural_data](https://user-images.githubusercontent.com/97326526/182220965-e227aeff-544e-4ec9-acbe-ea925d966205.JPG)
 
 
-> - Suburban:
+# > - Suburban:
 
 The suburban region type is the middle point of the three region types with a good amount more demand for rides. The total rides are 625 which is a 500 ride increase compared to rural, and the total driver also has an increase to 490 which is a 412 increase since there is more of a population compared to the rural area type. The total amount of fares has also quite a significant increase with a total fares being $19,356.33 which is a $15,028.40 increase of total fares. The average ride fare is lower than the rural due to higher demand for rides with $30.97 per ride which is only a $3.65 decrease per ride. And the average fare per driver is 39.50 which is decreased by 15.99 compared to rural driver fare.
 
@@ -30,7 +30,7 @@ The suburban region type is the middle point of the three region types with a go
 ![suburban_data](https://user-images.githubusercontent.com/97326526/182224736-1e463ec0-c12f-4d4d-8e05-efb611ce6040.JPG)
 
 
-> - Urban:
+# > - Urban:
 
 
 Urban is highest population density so it has the highest amount of total rides at 1,625 which is 1,000 more rides compared to suburban region, and has 2,405 total drivers which is a 1,915 more drivers than suburban, and is the first time that there are more drivers than we have rides. The total amount of fares is $39,854.38 which is a $20,498.05 increase to the suburban region. The average fare per ride has a significant decrease due to more demand for rides urban average per ride is $24.53 a decrease of $6.44. The average fare for the driver is $16.57 due to the commision taken from the driver and the high amount of drivers in the area making the average for the driver fare lower. The decrease is quite massive compared to suburban with a difference of $22.93. 
