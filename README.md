@@ -1,5 +1,12 @@
 # PyBer_Analysis
 
+![Fig1](https://user-images.githubusercontent.com/97326526/182761659-1173c39c-abbd-4b80-bd9c-5c063b86032d.png)
+
+
+![Fig5](https://user-images.githubusercontent.com/97326526/182761680-cf79ee78-5327-4cfe-a677-8c8378afcbe0.png)
+
+
+![Fig3](https://user-images.githubusercontent.com/97326526/182761690-34c49d31-8372-4fce-a715-5cef50dba7ea.png)
 
 ## Overview of Analysis:
 
@@ -51,3 +58,6 @@ Urban is highest population density so it has the highest amount of total rides 
 
 
 3. Third is if we raise prices to the Urban areas we may also want to raise the suburban fare prices to have a higher average fare per driver, but also to increase total fares to equilize with urban areas. The only problem is that in suburban area the competitor may have lower prices than us and wait times may already be pretty low in suburban area due to not that high of a ride demand. 
+
+
+![PyBer_fare_Challange](https://user-images.githubusercontent.com/97326526/182761636-ece7c077-2f6b-43ed-8491-95f259aa7f25.png)
